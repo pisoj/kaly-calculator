@@ -1,7 +1,7 @@
 # DESCRIPTION
 This is a simple calculator writen in php, html and css.
 # REQUIREMENTS
-• php 5.6 or later
+• Any version of php
 #
 • 5 kB of storage space
 #
