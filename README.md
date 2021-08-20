@@ -20,5 +20,4 @@ You can help develop the KALY calculator by:
 #
 • Adding calculation operations
 #
-
 • With suggestions ...
