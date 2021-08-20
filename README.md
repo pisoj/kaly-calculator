@@ -20,10 +20,5 @@ You can help develop the KALY calculator by:
 #
 • Adding calculation operations
 #
-• Placing radio buttons next to each other
-#
-• Adding a dark theme
-#
-• Improving the responsiveness of the calculator
-#
+
 • With suggestions ...
