@@ -3,7 +3,7 @@ This is a simple calculator writen in php, html and css.
 # REQUIREMENTS
 • Any version of php
 #
-• 5 kB of storage space
+• 24 kB of storage space
 #
 • 1 kB of memory
 # LICENSE
