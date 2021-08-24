@@ -1,8 +1,10 @@
 <?php
     if ($_POST["theme"] == dark) {
-        $_SESSION["theme"] = "dark";
+        setcookie("theme", "dark", "/");
+        header("Refresh:0");
     }
     if ($_POST["theme"] == light) {
-        $_SESSION["theme"] = "light";
+        setcookie("theme", "light", "/");
+        header("Refresh:0");
     }
 ?>
