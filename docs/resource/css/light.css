@@ -3,9 +3,9 @@
     height: 100%;
     margin: 0;
     padding: 0;
-    background-color: rgb(27, 27, 27);
+    background-color: LightGray;
 }
-#to-dark {
+#to-light {
     display: none;
 }
 #operation {
@@ -15,14 +15,12 @@
     font-size: 64px;
     border: 8px outset SlateBlue;
     border-radius: 8px;
-    background-color: rgb(65, 65, 65);
-    color: white;
+    background-color: white;
 }
 #number {
     font-family: Arial;
     font-size: 156px;
     margin: 0px;
-    color: white;
 }
 .input {
     border: 10px outset SlateBlue;
@@ -32,12 +30,9 @@
     font-family: Arial;
     font-size: 72px;
     margin-bottom: 5%;
-    background-color: rgb(65, 65, 65);
-    color: white;
 }
 .result {
     font-family: Arial;
     font-size: 128px;
     font-style: bold;
-    color: white;
 }
